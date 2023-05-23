@@ -8,7 +8,7 @@ export default function App() {
 
   return (
     <>
-      <GoogleOAuthProvider clientId='1085217579810-r04jcdp30g5191q5lu7f7sisr7ucbpdl.apps.googleusercontent.com'>
+      <GoogleOAuthProvider clientId='1085217579810-hvh9gblfu6a1mpamaibpgfurk3t2mamm.apps.googleusercontent.com'>
         <BrowserRouter>
           <Routes>
             <Route exact path='/' element={<HomePage />} />
